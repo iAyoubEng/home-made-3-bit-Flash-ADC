@@ -18,6 +18,7 @@ the thermometer-code-to-binary encoding and drives an SSD1306 OLED display.
 - # The Clock Module
 - 555-timer IC
 - 1K ohm resistor , 100K ohm resistor , 2.2 micro farad capacitor
+- Pin 13 in the Arduino is acting as the clock
 
 - # the comparator IC's
 - LM393 with 2 comparators in each ic
